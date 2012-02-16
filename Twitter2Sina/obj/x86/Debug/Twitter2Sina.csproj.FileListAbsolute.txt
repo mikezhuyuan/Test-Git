@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Twitter2Sina.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Twitter2Sina.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Twitter2Sina.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Twitterizer2.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Newtonsoft.Json.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Twitterizer2.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\bin\Debug\Twitterizer2.xml
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\obj\x86\Debug\Twitter2Sina.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Twitter2Sina\Twitter2Sina\obj\x86\Debug\Twitter2Sina.pdb
